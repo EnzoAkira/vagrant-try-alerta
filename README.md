@@ -34,7 +34,7 @@ Each vagrant box is configured to use a different IP address.
 | Alerta (MongoDB/Apache)  | Ubuntu   | alerta          | http://192.168.0.100 |
 | Alerta (Postgres/Apache) | Ubuntu   | alerta-postgres | http://192.168.0.101 |
 | Alerta (Postgres/Nginx)  | Ubuntu   | alerta-nginx    | http://192.168.0.102 |
-| Alerta (MongoDB/Apache)  | Centos7  | alerta-centos7  | http://192.168.0.103 |                            |
+| Alerta (MongoDB/Apache)  | Centos7  | alerta-centos7  | http://192.168.0.103 |
 | Alerta (MongoDB/Apache)  | Amazon2  | alerta-amzn2    | http://192.168.0.104 |
 | Alerta (MongoDB/Apache)  | openSUSE | alerta-opensuse | http://192.168.0.105 |
 
@@ -44,7 +44,6 @@ Each vagrant box is configured to use a different IP address.
 |--------------------|------------------|------|
 | Alerta & Nagios3   | alerta-nagios3   | http://192.168.0.110 http://192.168.0.110/nagios3 |
 | Alerta & Nagios4   | alerta-nagios4   | http://192.168.0.111 http://192.168.0.111/nagios |
-
 | Alerta & Nagios3   | alerta-nagios3   | 192.168.0.101 |                            |
 | Alerta & Zabbix    | alerta-zabbix2   | 192.168.0.102 |                            |
 | Alerta & Riemann   | alerta-riemann   | 192.168.0.103 |                            |
